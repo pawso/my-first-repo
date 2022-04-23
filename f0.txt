@@ -1,2 +1,3 @@
 Content of f0
 Line added in master
+Line added in feature
